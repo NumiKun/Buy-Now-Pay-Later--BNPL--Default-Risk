@@ -1,0 +1,5 @@
+Cluster_ID,Persona,Size,Size_Pct,Avg_Age,Avg_Income_USD,Avg_Credit_Score,Avg_Active_Loans,Avg_Debt_USD,Avg_Txn_Value_USD,Late_Payment_Pct,High_Risk_Pct,Medium_Risk_Pct,Low_Risk_Pct,Dominant_Employment,Dominant_Shopping
+0,Mid-Income Responsible Spenders,3053,30.53,34.2,68296.0,694.8,1.7,245.0,101.0,15.59,0.16,0.29,99.54,Employed,Fashion
+1,High-Risk Financially Strained,2356,23.56,34.3,16303.0,576.7,1.83,265.0,320.0,50.98,11.97,19.23,68.8,Student,Fashion
+2,Mid-Income Responsible Spenders,3167,31.67,34.3,67847.0,694.2,1.73,249.0,564.0,15.16,0.16,0.63,99.21,Employed,Electronics
+3,Average Profile Customers,1424,14.24,34.2,56537.0,673.8,5.76,931.0,328.0,22.4,16.08,13.76,70.15,Employed,Fashion
