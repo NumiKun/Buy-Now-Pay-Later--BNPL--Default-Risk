@@ -246,6 +246,7 @@ While this clustering pipeline is unsupervised, its derived cluster assignments 
 │       ├── cluster_composition_charts.png        # Categorical demographic breakdowns
 │       └── cluster_feature_distributions.png     # Boxplot distributions across features
 ├── requirements.txt                              # Production dependencies
+├── LICENSE                                       # MIT License
 └── README.md                                     # Project documentation
 ```
 
@@ -348,3 +349,9 @@ Developed as an applied credit risk and customer segmentation portfolio project 
 
 - **Repository:** [Buy-Now-Pay-Later--BNPL--Default-Risk](https://github.com/NumiKun/Buy-Now-Pay-Later--BNPL--Default-Risk)
 - **Author:** NumiKun
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
